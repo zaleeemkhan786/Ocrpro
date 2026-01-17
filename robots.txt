@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zaleeemkhan786.github.io/Ocrpro/sitemap.xml
